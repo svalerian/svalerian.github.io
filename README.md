@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Li Liu</h1>
-<h3 align="center">Data & Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm Christian Sucuzhanay Arévalo</h1>
+<h3 align="center">BI & Big Data Engineer | Data Science</h3>
 
-- 🔭 I’m currently working on **being an expert in data and software engineering**
-
-- 🌱 I’m currently learning **GCP, Spark, Kafka, MLOps**
+- 🔭 I’m currently working at **Universidad Europea** as Assistant Professor
+- 🔭 I’m currently teaching **Big Data Projects, Concurrent and Distributed Programming, Statistical Programming Languages**
+- 🌱 I’m currently learning **MLOps, AWS Certified Solutions Architect**
 
 - 👨‍💻 Some of my fun projects are available at [https://liliuportfolio.azurewebsites.net/](https://liliuportfolio.azurewebsites.net/)
 
-- 📝 I regularly write tech blogs on [https://medium.com/@liliu.data](https://medium.com/@liliu.data)
+- 📝 I write tech blogs on [https://medium.com/@sukuzhanay](https://medium.com/@sukuzhanay)
 
-- 💬 Ask me about **Python, AWS, SQL, Data Engineering, Running**
+- 💬 Ask me about **Python, AWS, GCP, GitHub, Git, Docker, Spark, Hadoop, SQL, Data Engineering**
 
-- 📫 How to reach me **liliu.data@gmail.com**
+- 📫 How to reach me **sukuzhanay@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
