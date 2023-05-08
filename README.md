@@ -4,7 +4,7 @@
 - 🔭 I’m currently studing at **Universidad Europea** 
 - 🌱 I’m currently learning **HTB different models, AI applied to data science**
 
-- 👨‍💻 Some of my fun projects are available at [https://svalerian.me/]
+- 👨‍💻 Some of my fun projects are available at [https://github.com/svalerian]
 
 - 💬 Ask me about **Python, SQL, AI, GitHub, Git, Docker, Java, Cybersecurity, Data Engineering, Python, C, C++, Full-Stack **
 
