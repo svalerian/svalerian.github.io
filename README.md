@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst & Cybersecurity Engineer | Data Science</h3>
 
 - 🔭 I’m currently studing at **Universidad Europea** 
-- 🌱 I’m currently learning **HTB diferent models, AI applied to data science**
+- 🌱 I’m currently learning **HTB different models, AI applied to data science**
 
 - 👨‍💻 Some of my fun projects are available at [https://svalerian.me/]
 
